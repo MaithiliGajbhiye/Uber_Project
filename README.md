@@ -16,9 +16,13 @@ The dataset contains 1,156 Uber trip records with details such as trip start and
 - Dataset Source : [Uber Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis)
 
 ## Insights :
+
 The number of trips fluctuates significantly over time.
+
 Certain locations have significantly more trips, possibly business hubs or busy city areas.
+
 The most common trip purposes include Meetings, Errands/Supplies, and Customer Visits.
+
 Peak hours: Most trips occur during typical commuting times (morning and evening).
 
 ## Recommendation :
